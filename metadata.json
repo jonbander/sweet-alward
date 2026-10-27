@@ -1,0 +1,6 @@
+{
+  "name": "شيف الحلويات - إدارة التكاليف والوصفات",
+  "description": "تطبيق موبايل مخصص لمعامل وورشات الحلويات لإدارة أسعار المواد الأولية بالليرة السورية وحساب تكاليف الوصفات وهوامش الربح بدقة بالغرام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
